@@ -1,6 +1,9 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
+# upon the marine and stellar complexity of a worked gold
+# the infinite chance of conjunctions was to be read
+
 def objective_function(x):
     return x**2 + 5*x + 6
 
